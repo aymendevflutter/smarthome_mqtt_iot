@@ -65,7 +65,7 @@ The app is designed to control smart home devices using a smart cart (e.g., ESP3
 
 ## Contributors
 
-- [Your Name (Aymen Fridhi)](https://github.com/aymendevflutter)
+- [(Aymen Fridhi)](https://github.com/aymendevflutter)
 
 ## Contact
 
