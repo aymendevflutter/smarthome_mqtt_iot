@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788121705937",
+    "project_id": "smarthome-e9805",
+    "storage_bucket": "smarthome-e9805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788121705937:android:7c58746727e73a7d3c14f0",
+        "android_client_info": {
+          "package_name": "com.example.appsmarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788121705937-jvhc1ea7tnc33crkoctton6ncl0dgvqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj1oe6gtF0VBwNiybyEIFbqCLaf_UVEv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788121705937-jvhc1ea7tnc33crkoctton6ncl0dgvqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
