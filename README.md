@@ -12,7 +12,27 @@ This is a smart home control app developed using Flutter and MQTT for communicat
 
 ## Screenshots
 
-[Add some screenshots of your app in action here]
+<body>
+    <table>
+        <tr>
+            <th>Image 1</th>
+            <th>Image 2</th>
+            <th>Image 3</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/aymendevflutter/smarthome_mqtt_iot/assets/132212405/dd1a6108-89f1-42cb-ba54-ba96fd70f4c4" alt="smarthome1"></td>
+            <td><img src="https://github.com/aymendevflutter/smarthome_mqtt_iot/assets/132212405/5182e524-7b26-4866-bb2a-a32c6e7ffde0" alt="home5"></td>
+            <td><img src="https://github.com/aymendevflutter/smarthome_mqtt_iot/assets/132212405/cce0047e-659a-4b71-a279-f3c3e729efb3" alt="home6"></td>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/aymendevflutter/smarthome_mqtt_iot/assets/132212405/85e19e7d-f6c4-4d0d-9d07-7becf4f749e4" alt="smar3"></td>
+            <td><img src="https://github.com/aymendevflutter/smarthome_mqtt_iot/assets/132212405/ff2172e4-2a6a-4cf8-8d90-568df6d2068a" alt="smarhome2"></td>
+            <td></td> <!-- Empty cell if you have fewer than three images in the last row -->
+        </tr>
+    </table>
+</body>
+
+
 
 ## Prerequisites
 
